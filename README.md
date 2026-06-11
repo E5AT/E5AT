@@ -1,4 +1,4 @@
-### Hey there! <img src="./assets/cat-headbang.gif" width="32" height="32" align="center" />
+### Hey there! ![headbang](./assets/cat-headbang.gif)
 
 I'm [Esat](https://github.com/E5AT), a Software Engineering student at Plovdiv University based in Bulgaria.
 
@@ -19,7 +19,8 @@ If you want proof of my fundamentals, I ranked **1st place nationally** in Bulga
 - I calculate the memory footprint of arrays, enums, and classes just for fun
 - I love discrete math (Turing machines, automata) but actively despise integrals
 - I have a drawer full of ESP32 components for embedded tinkering
-- **Next on my list:** Learning Rust to build insanely fast CLI tools
+- **Next on my list:**
+ Learning Rust to build insanely fast CLI tools
 
 <br>
 <sub>`[Process completed - exit code 0]`</sub>
