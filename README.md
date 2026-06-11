@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hey there!/>
 
-<!--
-**E5AT/E5AT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Esat](https://github.com/E5AT), a Software Engineering student at Plovdiv University based in Bulgaria.
 
-Here are some ideas to get you started:
+I build, optimize, and strip away the bloat from whatever I'm working on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If it involves calculating the exact byte size of a struct or writing bare-metal logic, chances are I'm in.
+
+My main tech stack is `C`, `C++`, `Python`, and `C#`. My favorite tools are my ThinkPad T14 (Ryzen 5), a uniquely riced Arch Linux + Hyprland setup, and `nvim` in the terminal.
+
+I've got a bunch of pinned projects, but my current focus is reverse-engineering and optimizing [ai-commit](https://github.com/E5AT/ai-commit).
+
+I've built and shipped plenty of public repos, focusing on embedded hardware, university materials, and CLI tools.
+
+If you want proof of my fundamentals, I ranked **1st place nationally** in Bulgaria's State Exam in Informatics with an absolute **96.75 points**!
+
+**> ./fun_facts.sh**
+
+- I calculate the memory footprint of arrays, enums, and classes just for fun
+- I love discrete math (Turing machines, automata) but actively despise integrals
+- I have a drawer full of ESP32 components for embedded tinkering
+- **Next on my list:** Learning Rust to build insanely fast CLI tools
+
+<br>
+<sub>`[Process completed - exit code 0]`</sub>
