@@ -1,4 +1,4 @@
-### Hey there!/>
+### Hey there! <img src="./assets/blob-wave.gif" width="32" height="32" align="center" />
 
 I'm [Esat](https://github.com/E5AT), a Software Engineering student at Plovdiv University based in Bulgaria.
 
