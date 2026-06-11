@@ -1,4 +1,4 @@
-### Hey there! <img src="./assets/cat-headbang.gif?v=1" width="32" height="32" align="center" />
+### Hey there! <img src="https://tenor.com/bD0XF.gif" width="32" height="32" align="center" />
 
 I'm [Esat](https://github.com/E5AT), a Software Engineering student at Plovdiv University based in Bulgaria.
 
