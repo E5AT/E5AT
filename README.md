@@ -1,4 +1,4 @@
-### Hey there! <img src="https://tenor.com/view/dessert-battlefield-gif-21890805.gif" width="32" height="32" align="center" />
+### Hey there! <img src="https://media.tenor.com/liFJWwwNPM8AAAAi/dessert-battlefield.gif" width="32" height="32" align="center" />
 
 I'm [Esat](https://github.com/E5AT), a Software Engineering student at Plovdiv University based in Bulgaria.
 
