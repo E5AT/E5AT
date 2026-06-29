@@ -8,8 +8,6 @@ If it involves calculating the exact byte size of a struct or writing bare-metal
 
 My main tech stack is `C`, `C++`, `Python`, and `C#`. My favorite tools are my ThinkPad T14 (Ryzen 5), a uniquely riced Arch Linux + Hyprland setup, and `nvim` in the terminal.
 
-I've got a bunch of pinned projects, but my current focus is reverse-engineering and optimizing [ai-commit](https://github.com/E5AT/ai-commit).
-
 I've built and shipped plenty of public repos, focusing on embedded hardware, university materials, and CLI tools.
 
 If you want proof of my fundamentals, I ranked **1st place nationally** in Bulgaria's State Exam in Informatics with an absolute **96.75 points**!
@@ -20,7 +18,7 @@ If you want proof of my fundamentals, I ranked **1st place nationally** in Bulga
 - I love discrete math (Turing machines, automata) but actively despise integrals
 - I have a drawer full of ESP32 components for embedded tinkering
 - **Next on my list:**
- Learning Rust to build insanely fast CLI tools
+  Mastering C and creation of CLI tools and automations.
 
 <br>
 <sub>`[Process completed - exit code 0]`</sub>
