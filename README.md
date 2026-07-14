@@ -18,7 +18,7 @@ If you want proof of my fundamentals, I ranked **1st place nationally** in Bulga
 - I love discrete math (Turing machines, automata) but actively despise integrals
 - I have a drawer full of ESP32 components for embedded tinkering
 - **Next on my list:**
-  Mastering C and creation of CLI tools and automations.
+  Mastering Python and creation of CLI tools, automations and AI.
 
 <br>
 <sub>`[Process completed - exit code 0]`</sub>
