@@ -6,7 +6,7 @@ My roots are in low-level fundamentals (`C`, `C++`) with `C#` on the higher-leve
 
 My favorite tools are my **ThinkPad T14** (Ryzen 5), a hand-built **Arch Linux + Hyprland** setup, and `nvim` in the terminal.
 
-Right now I'm building [`ai-commit`](https://github.com/E5AT/ai-commit) and `stichos`. `ai-commit` is a Python CLI that writes your commit messages for you using the **Gemini API**. `stichos` is a terminal-first **PKM** tool that logs your day straight into an **Obsidian** vault, with AI baked in. It's still a work in progress btw.
+Right now I'm building [`ai-commit`](https://github.com/E5AT/ai-commit) and [`stichos`](https://github.com/E5AT/stichos). `ai-commit` is a Python CLI that writes your commit messages for you using the **Gemini API**. `stichos` is a terminal-first **PKM** tool that logs your day straight into an **Obsidian** vault, with AI baked in.
 
 If you want proof of my fundamentals, I ranked **1st place nationally** in Bulgaria's State Exam in Informatics with an absolute **96.75 points**!
 
